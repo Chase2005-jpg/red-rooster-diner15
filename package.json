@@ -1,0 +1,13 @@
+{
+  "name": "red-rooster-diner15",
+  "version": "1.0.0",
+  "description": "Red Rooster Diner static website",
+  "type": "module",
+  "scripts": {
+    "build": "echo 'No build step required for static site'"
+  },
+  "dependencies": {
+    "@vercel/speed-insights": "^1.0.14"
+  },
+  "private": true
+}
